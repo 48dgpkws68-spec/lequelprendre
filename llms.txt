@@ -2,6 +2,18 @@
 
 > Comparatifs d'achat top 10 indépendants. Pour chaque type de produit, dix modèles comparés sur les caractéristiques, le prix et les avis, avec points forts, points faibles, guide d'achat et FAQ. Les prix sont des prix indicatifs.
 
+lequelprendre est édité par Nick van Straaten, un éditeur indépendant basé aux Pays-Bas. Pour chaque type de produit, nous comparons les modèles selon leurs caractéristiques, leur prix et l'avis des acheteurs, et nous mettons un guide à jour quand les prix changent ou qu'un meilleur modèle sort. Nous ne testons pas les produits nous-mêmes en laboratoire. Nos guides sont rédigés avec l'aide d'outils d'IA, à partir des fiches techniques, des prix et des avis d'acheteurs ; Nick supervise la méthode et corrige les guides quand un lecteur ou nos propres vérifications trouvent une erreur. Contact: nick@4neon.nl
+
+## Pages principales
+
+- [lequelprendre](https://lequelprendre.fr/): Comparatifs top 10 indépendants : les meilleures TV, robots aspirateurs, air fryers et plus encore en 2026. Comparés sur le prix, les caractéristiques et les avis.
+- [Tous les comparatifs](https://lequelprendre.fr/tous-les-comparatifs.html): Tous les comparatifs top 10 de lequelprendre, à filtrer par catégorie.
+- [Notre méthode](https://lequelprendre.fr/notre-methode.html): Notre méthode : une note de 1 à 10 pour la performance, le rapport qualité-prix, la fiabilité et la facilité d'usage, d'après fiches techniques, prix et avis.
+- [À propos](https://lequelprendre.fr/a-propos.html): lequelprendre publie des comparatifs top 10 indépendants, édités par Nick van Straaten depuis les Pays-Bas. Les marques ne peuvent pas acheter leur place.
+- [Idées cadeaux](https://lequelprendre.fr/idees-cadeaux/): Idées cadeaux pour 2026 : le numéro 1 de chacun de nos top 10, choisi selon les caractéristiques, le prix et les avis clients.
+- [Aide au choix](https://lequelprendre.fr/aide-au-choix.html): Répondez à trois questions et découvrez quel produit de nos top 10 correspond le mieux à votre budget et à vos besoins.
+- [Qualité-prix](https://lequelprendre.fr/meilleur-rapport-qualite-prix.html): Pour chaque type de produit, le modèle au meilleur rapport qualité-prix de nos top 10.
+
 ## Électroménager
 
 - [Les 10 meilleurs aspirateurs robots laveurs de 2026](https://lequelprendre.fr/meilleur/meilleur-aspirateur-robot-laveur.html): #1 Dreame X50 Ultra Complete
